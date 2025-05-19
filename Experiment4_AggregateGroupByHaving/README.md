@@ -1,5 +1,6 @@
 # Experiment 4: Aggregate Functions, Group By and Having Clause
-
+### NAME : Hema Varshine T
+### Reg No : 212222060082
 ## AIM
 To study and implement aggregate functions, GROUP BY, and HAVING clause with suitable examples.
 
